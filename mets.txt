@@ -1,0 +1,37 @@
+entree;101;Salade verte;Magnifique salade verte garnie de notre vinaigrette maison;6.00
+entree;102;4 minirouleaux de printemps;Rouleaux croustillants aux légumes servis avec sauce thaïe épicée et sucrée;7.50
+entree;103;4 bâtonnets de fromage;Servis avec sauce marinara;7.50
+entree;104;Salade César;Laitue romaine, copeaux de poulet croustillants, croûtons, fromage parmesan, quartier de citron et vinaigrette César à l'ail rôti;7.50
+entree;105;6 ailes de poulet;Servies avec sauce au choix: originale, piri-piri ou whisky BBQ;10.50
+entree;106;Soupe poulet et nouilles;Soupe poulet et nouilles;5.75
+entree;107;Soupe à l'oignon gratinée;Une soupe débordante d'oignons caramélisés, gratinés aux 5 fromages;8.50
+entree;108;Crème de poulet;Morceaux de poulet rôti dans une crème veloutée;5.75
+entree;109;12 ailes de poulet;Servies avec sauce au choix: originale, piri-piri ou whisky BBQ;18.95
+entree;110;Pique-Assiette;Pique-Assiette à la carte;19.25
+#
+plat principal;201;Pizza toute garnie;Magnifique pizza garnie de notre sauce tomate maison;15.00;oui
+plat principal;202;Cuisse de poulet rôti piri-piri;Cuisse de poulet rôti piri-piri;17.50;non
+plat principal;203;Poulet frit;4 morceaux de poulet frit, accompagnés d'une sauce miel et piri-piri;21.50;oui
+plat principal;204;Cuisse de poulet;Cuisse de poulet;15.95;non
+plat principal;205;Double cuisse;Double cuisse;18.95;oui
+plat principal;206;Brochette de Poulet Indien;Morceaux de poitrine de poulet assaisonnés, grillés et badigeonnés de sauce indienne;25.50;non
+plat principal;207;Poitrine de poulet grillée Texane;Poitrine de poulet assaisonnée, grillée et badigeonnée de sauce à côtes levées;22.95;oui
+plat principal;208;Fish & Chips;Deux filets de morue croustillants, accompagnés de sauce tartare;19.75;non
+plat principal;209;Demi-Côtes levées;Demi-Côtes levées;22.50;oui
+plat principal;210;Côtes levées entières;Côtes levées entières;31.50;non
+plat principal;211;Deux oeufs & bacon;Non des oeufs le matin ce n'est pas bizarre!;8.50;oui
+plat principal;212;Coupe de fruits avec granola;Si votre poids vous préoccupe...;10;non
+plat principal;213;Crêpes;Deux magnifiques crêpes garnies de notre sauce au chocolat maison;9.50;oui
+plat principal;214;Gaufres;Deux magnifiques gaufres garnies de notre sauce au chocolat maison;9.50;non
+plat principal;215;Omelette jambon & fromage végane;Magnifique omelette préparée avec des Beyond Egg et du Beyond Meat;20.50;non
+#
+dessert;301;Gâteau au chocolat;Magnifique gâteau au chocolat garnie de notre sauce maison;6.50;2500
+dessert;302;L'Extase;Copieux morceaux de gâteau vanillé, garnis de crème glacée à la vanille et nappés de notre sauce au sucre à la crème;7.50;2225
+dessert;303;Le Grand frisson;Le sundae de vos rêves! Crème glacée à la vanille nappée de sauce au sucre à la crème;6.95;1725
+dessert;304;New-Yorkais;Le gâteau au fromage des connaisseurs, garni de petits fruits;7.95;3000
+dessert;305;Sucrulente;Un autre classique indémodable! Une généreuse pointe de tarte au sucre;6.95;3100
+dessert;306;Mont choco;Notre délicieux brownie, riche et moelleux, servi avec crème glacée à la vanille;7.50;2500
+dessert;307;Chocomousse;Fond de croustillant au chocolat noir surmonté d'une mousse onctueuse: pour ceux qui sont à la diète;7.95;1998
+dessert;308;Tarte au citron;Magnifique tarte au citron;7.75;2000
+dessert;309;Eclair au chocolat;Un classique!;6.50;1500
+dessert;310;Millefeuille;Magnifique millefeuille garni de notre crème maison;7.50;2225

@@ -1,0 +1,7 @@
+dejeuner;1001;Déjeuner d'été;Déjeuner santé pour agrémenter les chauds mois d'été;actif
+dejeuner;1002;Brunch du dimanche;Menu spécial pour les déjeuners festifs;actif
+diner;2001;Dîner des fêtes;Spécial du temps des fêtes;actif
+diner;2002;Dîner gourmand;Menu pour ceux qui ne le sont pas;actif
+souper;3001;Souper des fêtes;Spécial du temps des fêtes;actif;semaine
+souper;3002;Souper gastronomique;Menu pour les bouches fines!;actif;fin de semaine
+souper;3003;Souper weekend;Menu de fin de semaine;actif;fin de semaine
