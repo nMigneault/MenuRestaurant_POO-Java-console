@@ -1,5 +1,5 @@
-session2_POO-Java-TP2
-=====================
+MenuRestaurant_POO-Java-console
+===============================
 Projet scolaire, individuel, durée 1 semaine.
 
 Description
