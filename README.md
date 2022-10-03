@@ -4,7 +4,7 @@ Projet scolaire, individuel, durée 1 semaine.
 
 Description
 -----------
-Menu de restaurant, logiciel console : protoype.
+Menu de restaurant, logiciel console : prototype.
 
 Le contexte est celui de la restauration. Ces restaurants offrent plusieurs mets (entrées, plats principaux, 
 desserts) qui composent différents menus (menu du déjeuner, du dîner, de soirée, de fin de semaine, etc).
